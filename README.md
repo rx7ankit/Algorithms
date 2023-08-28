@@ -1,1 +1,1 @@
-this repository has all basic c++ codes 
+All Data Structures and Algorithms
